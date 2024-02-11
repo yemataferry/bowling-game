@@ -10,9 +10,8 @@ btn1.addEventListener('click', function () {
 })
 
 btn.addEventListener('click', function () {
-  btn.style = "animation: none;"
+  btn.style = 'animation: none;'
   rollBall()
-  
 })
 
 function reset () {
